@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**snafis/snafis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="http://inews.gtimg.com/newsapp_match/0/10903293331/0" height="250" alt="Beauty" />
 
-Here are some ideas to get you started:
+* Keep it simple
+* Make it small
+* Seek beauty
+* Fight complexity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+> *"Beauty is to enthuse us for work, 
+>   and work is to raise us up"*
+
+
+
+
+
+
+
+
+
+ 
+
+
