@@ -7,8 +7,8 @@
 * Fight complexity
 
 
-> *"Beauty is to enthuse us for work, 
->   and work is to raise us up"*
+ *"Beauty is to enthuse us for work, 
+   and work is to raise us up"*
 
 
 
